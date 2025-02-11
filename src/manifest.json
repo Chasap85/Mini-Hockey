@@ -1,0 +1,52 @@
+{
+    "bundles":[
+        {
+            "name": "gameplay",
+            "assets": [
+                {
+                    "alias": [],
+                    "src": [],
+                    "data": {
+                        "tags": {}
+                    }
+                }
+            ]
+        },
+        {
+            "name": "title",
+            "assets": [
+                {
+                    "alias": [],
+                    "src": [],
+                    "data": {
+                        "tags": {}
+                    }
+                }
+            ]
+        },
+        {
+            "name": "loading",
+            "assets": [
+                {
+                    "alias": [],
+                    "src": [],
+                    "data": {
+                        "tags": {}
+                    }
+                }
+            ]
+        },
+        {
+            "name": "overlay-screens",
+            "assets": [
+                {
+                    "alias": [],
+                    "src": [],
+                    "data": {
+                        "tags": {}
+                    }
+                }
+            ]
+        }
+    ]
+}
